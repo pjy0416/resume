@@ -26,10 +26,18 @@ GitHub : https://github.com/pjy0416
     - 기술 : Oracle DB, JAVA, Servlet, Apache, REST API Server, python, open API(Naver Maps API), Crawling(네이버 날씨), JavaScript, Git, MVC
     - 역할 : DB 설계 및 구축, 서버 설계 및 구축, 데이터 수집
     - 링크 : https://github.com/pjy0416/project_today
-      
+- 부스트캠프 : 2020.07.27 ~ 진행 중
+  - 네이버 커넥트재단 주관
+  - JavaScript를 활용한 웹 풀스택 교육
+    - 챌린지 과정 (2020.07.27~ 2020.08.21)
+      - CS 지식을 직접 구현하며 습득했습니다.
+      - 백업 자동화 스크립트를 통해 자동 백업 및 전송
+      - 자료 구조 직접 구현
+      - Class 상속과 다형성을 이용한 구현
+      - Linux 와 Git, Docker 학습 및 활용
+    - 멤버십 과정 (2020.08.31 ~ 진행중)
 - 관련 자격증
   - 정보처리 : 2019.11.22 - 기사
-    
 - 영어 자격증
   - OPIC : 2019.09.18 - IM2
 
@@ -76,7 +84,7 @@ GitHub : https://github.com/pjy0416
       
 
 -  2018 KBSC 공모전 : 2018.10 ~ 2018.11
-  - 주제 : 
+  - 주제 : 이웃에게 편리함을 주는 SW 개발
   - 팀 프로젝트 : `ChewEat`
     - 소개 : 한국에 여행 오거나 거주하는 외국인을 위한 웹 기반 식품 검색 서비스 `ChewEat`
     - 기술 : MYSQL, Node.js, AWS EC2, Git Flow, Trello
@@ -86,3 +94,5 @@ GitHub : https://github.com/pjy0416
       - Node.js의 Express를 이용하면서 JAVA와 같은 멀티 스레드에 미숙하더라도 효율적으로 서버를 구축, 관리할 수 있다고 느낌  (스레드 스케줄링과 공유 자원을 통제 등)
       - Node.js는 프론트앤드 개발자와 소통이 원할하다는 장점이 있음
     - 링크 : https://github.com/pjy0416/ChewEat
+  
+  
